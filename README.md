@@ -1,10 +1,9 @@
-<h1> Hi I am Emma 👋 <br/><a 
+# 👋  Hi I am Emma 
 
 
 
 
-## About
-
+## About 💬
 - I have a backgroung in customer satisfaction and as Head of Customer Success Manager I realise the importance of data analysis and uses. 
 - 🌱 I’m currently developing my technical data skills, by working as a volunteer on the 50/50's project for the Data For Good association : "Révéler les Inégalité au Cinéma" (Revealing Inequalities in Cinema).
   
@@ -16,16 +15,12 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Power BI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-informational?style=flat&logo=powerbi&color=F2C811)
 
-## Download My CV
-[linkedin]: https://linkedin.com/in/emma-treu/
+## My Resume 📝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emma-treu/)
+
 Click here >> [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/user-attachments/files/19606194/CV.-.Emma.Treu.-.github.pdf)
 
- [params.social]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/emma-treu/"
-
-## My Portfolio
+## My Portfolio 💼
 
 
 <!--
