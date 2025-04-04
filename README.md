@@ -21,7 +21,7 @@
 Click here >> [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/user-attachments/files/19606194/CV.-.Emma.Treu.-.github.pdf)
 
 ## My Portfolio 💼
-
+*Under construction*
 
 <!--
 **emmatreu/emmatreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
