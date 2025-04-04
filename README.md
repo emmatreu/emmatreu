@@ -18,12 +18,12 @@
 
 ## Download My CV
 [linkedin]: https://linkedin.com/in/emma-treu/
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/user-attachments/files/18209434/CV.2024.pdf)
-)
-[Click here to download my CV]([CV 2024.pdf](https://github.com/user-attachments/files/18209434/CV.2024.pdf))
+Click here >> [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/user-attachments/files/19606194/CV.-.Emma.Treu.-.github.pdf)
 
-[CV Coline Ritz.pdf](https://github.com/user-attachments/files/18207419/CV.Coline.Ritz.pdf)
-
+ [params.social]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/emma-treu/"
 
 ## My Portfolio
 
